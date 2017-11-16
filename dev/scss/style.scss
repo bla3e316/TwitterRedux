@@ -1,0 +1,17 @@
+$primary: #2100de;
+$bodyBackground: #272627;
+$bodyColor: #ffffff;
+
+h2 {
+	color: $primary;
+}
+
+body {
+	background: $bodyBackground;
+	color: $bodyColor;
+}
+
+.App {
+	//text-align: center;
+	padding: 5%;
+}
