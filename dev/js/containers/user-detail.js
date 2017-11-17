@@ -18,7 +18,7 @@ class UserDetail extends Component {
                         }}
                         options={{
                             username: this.props.user.description,
-                            height: '400',
+                            height: '600',
                             theme: 'dark'
                         }}
                     />
